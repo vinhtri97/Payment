@@ -1,0 +1,17 @@
+personal information:
+	center circle icon on radio buttons
+navigation bar:
+	text center vertically
+	padding between text and icon
+	shadow need to be in x and y position 
+	change icon to another icon when focused
+registration card:
+	change style for personal page and other page (padding and margin)
+upload-document:
+	image changes to selected image when user hits upload -> add icon to delete image and keep plus icon 
+	
+signature:
+	scrollable for the text.
+	clear signature button
+reference page:
+	Pop-up in last route. Continue to work when all other pages are done. 
